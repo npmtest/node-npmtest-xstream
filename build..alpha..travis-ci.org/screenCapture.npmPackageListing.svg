@@ -1,155 +1,155 @@
 <svg height="2430" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2430" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 16:21:20 +0000   796469 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 16:21:20 +0000    38241 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 16:21:20 +0000     3129 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 16:21:20 +0000    17683 bytes  EXTRA_DOCS.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 16:21:20 +0000     1080 bytes  LICENSE</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 16:21:20 +0000    30894 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 16:21:20 +0000      382 bytes  browser-tests.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 16:21:20 +0000     1475 bytes  browser-tests/index.ts</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 16:21:20 +0000    33800 bytes  dist/xstream.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 16:21:20 +0000    16956 bytes  dist/xstream.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 16:21:20 +0000    40953 bytes  dist/xstream.min.js.map</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 16:21:20 +0000      301 bytes  examples/map-filter-take.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 16:21:20 +0000      213 bytes  examples/of.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 16:21:20 +0000     1162 bytes  extra/concat.d.ts</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 16:21:20 +0000     2603 bytes  extra/concat.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 16:21:20 +0000     1703 bytes  extra/concat.js.map</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 16:21:20 +0000      884 bytes  extra/debounce.d.ts</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 16:21:20 +0000     2416 bytes  extra/debounce.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 16:21:20 +0000     1697 bytes  extra/debounce.js.map</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 16:21:20 +0000      889 bytes  extra/delay.d.ts</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 16:21:20 +0000     2225 bytes  extra/delay.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 16:21:20 +0000     1527 bytes  extra/delay.js.map</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 16:21:20 +0000     1872 bytes  extra/dropRepeats.d.ts</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 16:21:20 +0000     2920 bytes  extra/dropRepeats.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 16:21:20 +0000     1727 bytes  extra/dropRepeats.js.map</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 16:21:20 +0000     1381 bytes  extra/dropUntil.d.ts</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 16:21:20 +0000     2943 bytes  extra/dropUntil.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 16:21:20 +0000     2132 bytes  extra/dropUntil.js.map</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 16:21:20 +0000     1327 bytes  extra/flattenConcurrently.d.ts</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 16:21:20 +0000     2711 bytes  extra/flattenConcurrently.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 16:21:20 +0000     1808 bytes  extra/flattenConcurrently.js.map</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 16:21:20 +0000     1560 bytes  extra/flattenSequentially.d.ts</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 16:21:20 +0000     3549 bytes  extra/flattenSequentially.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 16:21:20 +0000     2856 bytes  extra/flattenSequentially.js.map</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 16:21:20 +0000     2375 bytes  extra/fromDiagram.d.ts</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 16:21:20 +0000     3959 bytes  extra/fromDiagram.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 16:21:20 +0000     2255 bytes  extra/fromDiagram.js.map</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 16:21:20 +0000     3056 bytes  extra/fromEvent.d.ts</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 16:21:20 +0000     4288 bytes  extra/fromEvent.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 16:21:20 +0000     1945 bytes  extra/fromEvent.js.map</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 16:21:20 +0000      735 bytes  extra/pairwise.d.ts</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 16:21:20 +0000     2023 bytes  extra/pairwise.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 16:21:20 +0000     1524 bytes  extra/pairwise.js.map</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 16:21:20 +0000     2263 bytes  extra/sampleCombine.d.ts</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 16:21:20 +0000     4738 bytes  extra/sampleCombine.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 16:21:20 +0000     3397 bytes  extra/sampleCombine.js.map</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 16:21:20 +0000     1763 bytes  extra/split.d.ts</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 16:21:20 +0000     3321 bytes  extra/split.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 16:21:20 +0000     2224 bytes  extra/split.js.map</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 16:21:20 +0000      854 bytes  extra/throttle.d.ts</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 16:21:20 +0000     2393 bytes  extra/throttle.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 16:21:20 +0000     1722 bytes  extra/throttle.js.map</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 16:21:20 +0000      780 bytes  extra/tween.d.ts</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 16:21:20 +0000     5757 bytes  extra/tween.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 16:21:20 +0000     4650 bytes  extra/tween.js.map</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 16:21:20 +0000    26334 bytes  index.d.ts</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 16:21:20 +0000    52357 bytes  index.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 16:21:20 +0000    36983 bytes  index.js.map</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 16:21:20 +0000     2149 bytes  markdown/footer.md</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 16:21:20 +0000     1640 bytes  markdown/header.md</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 16:21:20 +0000     6517 bytes  markdown/overview.md</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 16:21:20 +0000      432 bytes  markdown/readme-title.md</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 16:21:20 +0000     3777 bytes  package.json</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-20 16:21:20 +0000     1720 bytes  perf/combine.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-20 16:21:20 +0000     3452 bytes  perf/dataflow.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-20 16:21:20 +0000     2460 bytes  perf/filter-map-fusion.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-20 16:21:20 +0000     2129 bytes  perf/filter-map-reduce.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-20 16:21:20 +0000     2445 bytes  perf/flatten.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-20 16:21:20 +0000     2784 bytes  perf/flattenConcurrently.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-20 16:21:20 +0000     2331 bytes  perf/fold.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-20 16:21:20 +0000     2570 bytes  perf/merge.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-20 16:21:20 +0000      992 bytes  perf/package.json</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-20 16:21:20 +0000     3857 bytes  perf/runners.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-20 16:21:20 +0000     2165 bytes  src/extra/concat.ts</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-20 16:21:20 +0000     1935 bytes  src/extra/debounce.ts</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-20 16:21:20 +0000     1848 bytes  src/extra/delay.ts</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-20 16:21:20 +0000     2477 bytes  src/extra/dropRepeats.ts</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-20 16:21:20 +0000     2425 bytes  src/extra/dropUntil.ts</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-20 16:21:20 +0000     2163 bytes  src/extra/flattenConcurrently.ts</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-20 16:21:20 +0000     3072 bytes  src/extra/flattenSequentially.ts</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-20 16:21:20 +0000     3851 bytes  src/extra/fromDiagram.ts</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-20 16:21:20 +0000     3959 bytes  src/extra/fromEvent.ts</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-20 16:21:20 +0000     1627 bytes  src/extra/pairwise.ts</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-20 16:21:20 +0000     5699 bytes  src/extra/sampleCombine.ts</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-20 16:21:20 +0000     2900 bytes  src/extra/split.ts</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-20 16:21:20 +0000     1902 bytes  src/extra/throttle.ts</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-20 16:21:20 +0000     5969 bytes  src/extra/tween.ts</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-20 16:21:20 +0000    53523 bytes  src/index.ts</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-20 16:21:20 +0000     1804 bytes  tests/extra/concat.ts</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-20 16:21:20 +0000      952 bytes  tests/extra/debounce.ts</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-20 16:21:20 +0000     1553 bytes  tests/extra/delay.ts</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-20 16:21:20 +0000     2699 bytes  tests/extra/dropRepeats.ts</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-20 16:21:20 +0000     1314 bytes  tests/extra/dropUntil.ts</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-20 16:21:20 +0000     5524 bytes  tests/extra/flattenConcurrently.ts</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-20 16:21:20 +0000     6005 bytes  tests/extra/flattenSequentially.ts</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-20 16:21:20 +0000     3535 bytes  tests/extra/fromDiagram.ts</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-20 16:21:20 +0000     5297 bytes  tests/extra/fromEvent.ts</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-20 16:21:20 +0000      927 bytes  tests/extra/pairwise.ts</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-20 16:21:20 +0000     5330 bytes  tests/extra/sampleCombine.ts</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-20 16:21:20 +0000     2520 bytes  tests/extra/split.ts</tspan>
-<tspan x="10" y="1626">100.  2017-04-20 16:21:20 +0000     1178 bytes  tests/extra/throttle.ts</tspan>
-<tspan x="10" y="1642">101.  2017-04-20 16:21:20 +0000     8015 bytes  tests/extra/tween.ts</tspan>
-<tspan x="10" y="1658">102.  2017-04-20 16:21:20 +0000     4775 bytes  tests/factory/combine.ts</tspan>
-<tspan x="10" y="1674">103.  2017-04-20 16:21:20 +0000      448 bytes  tests/factory/empty.ts</tspan>
-<tspan x="10" y="1690">104.  2017-04-20 16:21:20 +0000     2006 bytes  tests/factory/from.ts</tspan>
-<tspan x="10" y="1706">105.  2017-04-20 16:21:20 +0000      612 bytes  tests/factory/fromArray.ts</tspan>
-<tspan x="10" y="1722">106.  2017-04-20 16:21:20 +0000     1139 bytes  tests/factory/fromObservable.ts</tspan>
-<tspan x="10" y="1738">107.  2017-04-20 16:21:20 +0000     1020 bytes  tests/factory/fromPromise.ts</tspan>
-<tspan x="10" y="1754">108.  2017-04-20 16:21:20 +0000     2851 bytes  tests/factory/merge.ts</tspan>
-<tspan x="10" y="1770">109.  2017-04-20 16:21:20 +0000      584 bytes  tests/factory/never.ts</tspan>
-<tspan x="10" y="1786">110.  2017-04-20 16:21:20 +0000      611 bytes  tests/factory/of.ts</tspan>
-<tspan x="10" y="1802">111.  2017-04-20 16:21:20 +0000      589 bytes  tests/factory/throw.ts</tspan>
-<tspan x="10" y="1818">112.  2017-04-20 16:21:20 +0000     7051 bytes  tests/memoryStream.ts</tspan>
-<tspan x="10" y="1834">113.  2017-04-20 16:21:20 +0000     2775 bytes  tests/operator/debug.ts</tspan>
-<tspan x="10" y="1850">114.  2017-04-20 16:21:20 +0000     1319 bytes  tests/operator/drop.ts</tspan>
-<tspan x="10" y="1866">115.  2017-04-20 16:21:20 +0000     1923 bytes  tests/operator/endWhen.ts</tspan>
-<tspan x="10" y="1882">116.  2017-04-20 16:21:20 +0000     4239 bytes  tests/operator/filter.ts</tspan>
-<tspan x="10" y="1898">117.  2017-04-20 16:21:20 +0000    10302 bytes  tests/operator/flatten.ts</tspan>
-<tspan x="10" y="1914">118.  2017-04-20 16:21:20 +0000     2017 bytes  tests/operator/fold.ts</tspan>
-<tspan x="10" y="1930">119.  2017-04-20 16:21:20 +0000     8492 bytes  tests/operator/imitate.ts</tspan>
-<tspan x="10" y="1946">120.  2017-04-20 16:21:20 +0000     1269 bytes  tests/operator/last.ts</tspan>
-<tspan x="10" y="1962">121.  2017-04-20 16:21:20 +0000     5024 bytes  tests/operator/map.ts</tspan>
-<tspan x="10" y="1978">122.  2017-04-20 16:21:20 +0000     1519 bytes  tests/operator/mapTo.ts</tspan>
-<tspan x="10" y="1994">123.  2017-04-20 16:21:20 +0000     5360 bytes  tests/operator/remember.ts</tspan>
-<tspan x="10" y="2010">124.  2017-04-20 16:21:20 +0000     4788 bytes  tests/operator/replaceError.ts</tspan>
-<tspan x="10" y="2026">125.  2017-04-20 16:21:20 +0000      633 bytes  tests/operator/startWith.ts</tspan>
-<tspan x="10" y="2042">126.  2017-04-20 16:21:20 +0000     3316 bytes  tests/operator/take.ts</tspan>
-<tspan x="10" y="2058">127.  2017-04-20 16:21:20 +0000    11923 bytes  tests/stream.ts</tspan>
-<tspan x="10" y="2074">128.  2017-04-20 16:21:20 +0000     3070 bytes  tools/check-release.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-20 16:21:20 +0000      403 bytes  tools/generate-docs.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-20 16:21:20 +0000      373 bytes  tools/make-extras.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-20 16:21:20 +0000      197 bytes  tools/make-factories.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-20 16:21:20 +0000      193 bytes  tools/make-methods.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-20 16:21:20 +0000      185 bytes  tools/make-toc.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-20 16:21:20 +0000      456 bytes  tools/minify.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-20 16:21:20 +0000      542 bytes  tools/release-if-necessary.sh</tspan>
-<tspan x="10" y="2202">136.  2017-04-20 16:21:20 +0000      311 bytes  tools/strip-comments.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-20 16:21:20 +0000     2787 bytes  tools/template-extras.md.ejs</tspan>
-<tspan x="10" y="2234">138.  2017-04-20 16:21:20 +0000     1342 bytes  tools/template-factories.md.ejs</tspan>
-<tspan x="10" y="2250">139.  2017-04-20 16:21:20 +0000     1510 bytes  tools/template-methods.md.ejs</tspan>
-<tspan x="10" y="2266">140.  2017-04-20 16:21:20 +0000      577 bytes  tools/template-toc.md.ejs</tspan>
-<tspan x="10" y="2282">141.  2017-04-20 16:21:20 +0000     1077 bytes  tsconfig.json</tspan>
-<tspan x="10" y="2298">142.  2017-04-20 16:21:20 +0000     1026 bytes  tslint.json</tspan>
-<tspan x="10" y="2314">143.  2017-04-20 16:21:20 +0000     7609 bytes  typings/globals/mocha/index.d.ts</tspan>
-<tspan x="10" y="2330">144.  2017-04-20 16:21:20 +0000      434 bytes  typings/globals/mocha/typings.json</tspan>
-<tspan x="10" y="2346">145.  2017-04-20 16:21:20 +0000    91562 bytes  typings/globals/node/index.d.ts</tspan>
-<tspan x="10" y="2362">146.  2017-04-20 16:21:20 +0000      428 bytes  typings/globals/node/typings.json</tspan>
-<tspan x="10" y="2378">147.  2017-04-20 16:21:20 +0000      149 bytes  typings/index.d.ts</tspan>
-<tspan x="10" y="2394">148.  2017-04-20 16:21:20 +0000    15260 bytes  typings/modules/sinon/index.d.ts</tspan>
-<tspan x="10" y="2410">149.  2017-04-20 16:21:20 +0000      275 bytes  typings/modules/sinon/typings.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 16:22:22 +0000   796469 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 16:22:22 +0000    38241 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 16:22:22 +0000     3129 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 16:22:22 +0000    17683 bytes  EXTRA_DOCS.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 16:22:22 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 16:22:22 +0000    30894 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 16:22:22 +0000      382 bytes  browser-tests.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 16:22:22 +0000     1475 bytes  browser-tests/index.ts</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 16:22:22 +0000    33800 bytes  dist/xstream.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 16:22:22 +0000    16956 bytes  dist/xstream.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 16:22:22 +0000    40953 bytes  dist/xstream.min.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 16:22:22 +0000      301 bytes  examples/map-filter-take.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 16:22:22 +0000      213 bytes  examples/of.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 16:22:22 +0000     1162 bytes  extra/concat.d.ts</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 16:22:22 +0000     2603 bytes  extra/concat.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 16:22:22 +0000     1703 bytes  extra/concat.js.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 16:22:22 +0000      884 bytes  extra/debounce.d.ts</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 16:22:22 +0000     2416 bytes  extra/debounce.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 16:22:22 +0000     1697 bytes  extra/debounce.js.map</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 16:22:22 +0000      889 bytes  extra/delay.d.ts</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 16:22:22 +0000     2225 bytes  extra/delay.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 16:22:22 +0000     1527 bytes  extra/delay.js.map</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 16:22:22 +0000     1872 bytes  extra/dropRepeats.d.ts</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 16:22:22 +0000     2920 bytes  extra/dropRepeats.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 16:22:22 +0000     1727 bytes  extra/dropRepeats.js.map</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 16:22:22 +0000     1381 bytes  extra/dropUntil.d.ts</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 16:22:22 +0000     2943 bytes  extra/dropUntil.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 16:22:22 +0000     2132 bytes  extra/dropUntil.js.map</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 16:22:22 +0000     1327 bytes  extra/flattenConcurrently.d.ts</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 16:22:22 +0000     2711 bytes  extra/flattenConcurrently.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 16:22:22 +0000     1808 bytes  extra/flattenConcurrently.js.map</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 16:22:22 +0000     1560 bytes  extra/flattenSequentially.d.ts</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 16:22:22 +0000     3549 bytes  extra/flattenSequentially.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 16:22:22 +0000     2856 bytes  extra/flattenSequentially.js.map</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 16:22:22 +0000     2375 bytes  extra/fromDiagram.d.ts</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 16:22:22 +0000     3959 bytes  extra/fromDiagram.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 16:22:22 +0000     2255 bytes  extra/fromDiagram.js.map</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 16:22:22 +0000     3056 bytes  extra/fromEvent.d.ts</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 16:22:22 +0000     4288 bytes  extra/fromEvent.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 16:22:22 +0000     1945 bytes  extra/fromEvent.js.map</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 16:22:22 +0000      735 bytes  extra/pairwise.d.ts</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 16:22:22 +0000     2023 bytes  extra/pairwise.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 16:22:22 +0000     1524 bytes  extra/pairwise.js.map</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 16:22:22 +0000     2263 bytes  extra/sampleCombine.d.ts</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 16:22:22 +0000     4738 bytes  extra/sampleCombine.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 16:22:22 +0000     3397 bytes  extra/sampleCombine.js.map</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 16:22:22 +0000     1763 bytes  extra/split.d.ts</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 16:22:22 +0000     3321 bytes  extra/split.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 16:22:22 +0000     2224 bytes  extra/split.js.map</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 16:22:22 +0000      854 bytes  extra/throttle.d.ts</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 16:22:22 +0000     2393 bytes  extra/throttle.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 16:22:22 +0000     1722 bytes  extra/throttle.js.map</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 16:22:22 +0000      780 bytes  extra/tween.d.ts</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 16:22:22 +0000     5757 bytes  extra/tween.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 16:22:22 +0000     4650 bytes  extra/tween.js.map</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 16:22:22 +0000    26334 bytes  index.d.ts</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 16:22:22 +0000    52357 bytes  index.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 16:22:22 +0000    36983 bytes  index.js.map</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 16:22:22 +0000     2149 bytes  markdown/footer.md</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 16:22:22 +0000     1640 bytes  markdown/header.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 16:22:22 +0000     6517 bytes  markdown/overview.md</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 16:22:22 +0000      432 bytes  markdown/readme-title.md</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 16:22:22 +0000     3777 bytes  package.json</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 16:22:22 +0000     1720 bytes  perf/combine.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 16:22:22 +0000     3452 bytes  perf/dataflow.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 16:22:22 +0000     2460 bytes  perf/filter-map-fusion.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 16:22:22 +0000     2129 bytes  perf/filter-map-reduce.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 16:22:22 +0000     2445 bytes  perf/flatten.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 16:22:22 +0000     2784 bytes  perf/flattenConcurrently.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 16:22:22 +0000     2331 bytes  perf/fold.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 16:22:22 +0000     2570 bytes  perf/merge.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 16:22:22 +0000      992 bytes  perf/package.json</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 16:22:22 +0000     3857 bytes  perf/runners.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 16:22:22 +0000     2165 bytes  src/extra/concat.ts</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 16:22:22 +0000     1935 bytes  src/extra/debounce.ts</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 16:22:22 +0000     1848 bytes  src/extra/delay.ts</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 16:22:22 +0000     2477 bytes  src/extra/dropRepeats.ts</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 16:22:22 +0000     2425 bytes  src/extra/dropUntil.ts</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 16:22:22 +0000     2163 bytes  src/extra/flattenConcurrently.ts</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 16:22:22 +0000     3072 bytes  src/extra/flattenSequentially.ts</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 16:22:22 +0000     3851 bytes  src/extra/fromDiagram.ts</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 16:22:22 +0000     3959 bytes  src/extra/fromEvent.ts</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 16:22:22 +0000     1627 bytes  src/extra/pairwise.ts</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 16:22:22 +0000     5699 bytes  src/extra/sampleCombine.ts</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 16:22:22 +0000     2900 bytes  src/extra/split.ts</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 16:22:22 +0000     1902 bytes  src/extra/throttle.ts</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 16:22:22 +0000     5969 bytes  src/extra/tween.ts</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 16:22:22 +0000    53523 bytes  src/index.ts</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-20 16:22:22 +0000     1804 bytes  tests/extra/concat.ts</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-20 16:22:22 +0000      952 bytes  tests/extra/debounce.ts</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-20 16:22:22 +0000     1553 bytes  tests/extra/delay.ts</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-20 16:22:22 +0000     2699 bytes  tests/extra/dropRepeats.ts</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-20 16:22:22 +0000     1314 bytes  tests/extra/dropUntil.ts</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-20 16:22:22 +0000     5524 bytes  tests/extra/flattenConcurrently.ts</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-20 16:22:22 +0000     6005 bytes  tests/extra/flattenSequentially.ts</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-20 16:22:22 +0000     3535 bytes  tests/extra/fromDiagram.ts</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-20 16:22:22 +0000     5297 bytes  tests/extra/fromEvent.ts</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-20 16:22:22 +0000      927 bytes  tests/extra/pairwise.ts</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-20 16:22:22 +0000     5330 bytes  tests/extra/sampleCombine.ts</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-20 16:22:22 +0000     2520 bytes  tests/extra/split.ts</tspan>
+<tspan x="10" y="1626">100.  2017-04-20 16:22:22 +0000     1178 bytes  tests/extra/throttle.ts</tspan>
+<tspan x="10" y="1642">101.  2017-04-20 16:22:22 +0000     8015 bytes  tests/extra/tween.ts</tspan>
+<tspan x="10" y="1658">102.  2017-04-20 16:22:22 +0000     4775 bytes  tests/factory/combine.ts</tspan>
+<tspan x="10" y="1674">103.  2017-04-20 16:22:22 +0000      448 bytes  tests/factory/empty.ts</tspan>
+<tspan x="10" y="1690">104.  2017-04-20 16:22:22 +0000     2006 bytes  tests/factory/from.ts</tspan>
+<tspan x="10" y="1706">105.  2017-04-20 16:22:22 +0000      612 bytes  tests/factory/fromArray.ts</tspan>
+<tspan x="10" y="1722">106.  2017-04-20 16:22:22 +0000     1139 bytes  tests/factory/fromObservable.ts</tspan>
+<tspan x="10" y="1738">107.  2017-04-20 16:22:22 +0000     1020 bytes  tests/factory/fromPromise.ts</tspan>
+<tspan x="10" y="1754">108.  2017-04-20 16:22:22 +0000     2851 bytes  tests/factory/merge.ts</tspan>
+<tspan x="10" y="1770">109.  2017-04-20 16:22:22 +0000      584 bytes  tests/factory/never.ts</tspan>
+<tspan x="10" y="1786">110.  2017-04-20 16:22:22 +0000      611 bytes  tests/factory/of.ts</tspan>
+<tspan x="10" y="1802">111.  2017-04-20 16:22:22 +0000      589 bytes  tests/factory/throw.ts</tspan>
+<tspan x="10" y="1818">112.  2017-04-20 16:22:22 +0000     7051 bytes  tests/memoryStream.ts</tspan>
+<tspan x="10" y="1834">113.  2017-04-20 16:22:22 +0000     2775 bytes  tests/operator/debug.ts</tspan>
+<tspan x="10" y="1850">114.  2017-04-20 16:22:22 +0000     1319 bytes  tests/operator/drop.ts</tspan>
+<tspan x="10" y="1866">115.  2017-04-20 16:22:22 +0000     1923 bytes  tests/operator/endWhen.ts</tspan>
+<tspan x="10" y="1882">116.  2017-04-20 16:22:22 +0000     4239 bytes  tests/operator/filter.ts</tspan>
+<tspan x="10" y="1898">117.  2017-04-20 16:22:22 +0000    10302 bytes  tests/operator/flatten.ts</tspan>
+<tspan x="10" y="1914">118.  2017-04-20 16:22:22 +0000     2017 bytes  tests/operator/fold.ts</tspan>
+<tspan x="10" y="1930">119.  2017-04-20 16:22:22 +0000     8492 bytes  tests/operator/imitate.ts</tspan>
+<tspan x="10" y="1946">120.  2017-04-20 16:22:22 +0000     1269 bytes  tests/operator/last.ts</tspan>
+<tspan x="10" y="1962">121.  2017-04-20 16:22:22 +0000     5024 bytes  tests/operator/map.ts</tspan>
+<tspan x="10" y="1978">122.  2017-04-20 16:22:22 +0000     1519 bytes  tests/operator/mapTo.ts</tspan>
+<tspan x="10" y="1994">123.  2017-04-20 16:22:22 +0000     5360 bytes  tests/operator/remember.ts</tspan>
+<tspan x="10" y="2010">124.  2017-04-20 16:22:22 +0000     4788 bytes  tests/operator/replaceError.ts</tspan>
+<tspan x="10" y="2026">125.  2017-04-20 16:22:22 +0000      633 bytes  tests/operator/startWith.ts</tspan>
+<tspan x="10" y="2042">126.  2017-04-20 16:22:22 +0000     3316 bytes  tests/operator/take.ts</tspan>
+<tspan x="10" y="2058">127.  2017-04-20 16:22:22 +0000    11923 bytes  tests/stream.ts</tspan>
+<tspan x="10" y="2074">128.  2017-04-20 16:22:22 +0000     3070 bytes  tools/check-release.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-20 16:22:22 +0000      403 bytes  tools/generate-docs.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-20 16:22:22 +0000      373 bytes  tools/make-extras.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-20 16:22:22 +0000      197 bytes  tools/make-factories.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-20 16:22:22 +0000      193 bytes  tools/make-methods.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-20 16:22:22 +0000      185 bytes  tools/make-toc.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-20 16:22:22 +0000      456 bytes  tools/minify.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-20 16:22:22 +0000      542 bytes  tools/release-if-necessary.sh</tspan>
+<tspan x="10" y="2202">136.  2017-04-20 16:22:22 +0000      311 bytes  tools/strip-comments.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-20 16:22:22 +0000     2787 bytes  tools/template-extras.md.ejs</tspan>
+<tspan x="10" y="2234">138.  2017-04-20 16:22:22 +0000     1342 bytes  tools/template-factories.md.ejs</tspan>
+<tspan x="10" y="2250">139.  2017-04-20 16:22:22 +0000     1510 bytes  tools/template-methods.md.ejs</tspan>
+<tspan x="10" y="2266">140.  2017-04-20 16:22:22 +0000      577 bytes  tools/template-toc.md.ejs</tspan>
+<tspan x="10" y="2282">141.  2017-04-20 16:22:22 +0000     1077 bytes  tsconfig.json</tspan>
+<tspan x="10" y="2298">142.  2017-04-20 16:22:22 +0000     1026 bytes  tslint.json</tspan>
+<tspan x="10" y="2314">143.  2017-04-20 16:22:22 +0000     7609 bytes  typings/globals/mocha/index.d.ts</tspan>
+<tspan x="10" y="2330">144.  2017-04-20 16:22:22 +0000      434 bytes  typings/globals/mocha/typings.json</tspan>
+<tspan x="10" y="2346">145.  2017-04-20 16:22:22 +0000    91562 bytes  typings/globals/node/index.d.ts</tspan>
+<tspan x="10" y="2362">146.  2017-04-20 16:22:22 +0000      428 bytes  typings/globals/node/typings.json</tspan>
+<tspan x="10" y="2378">147.  2017-04-20 16:22:22 +0000      149 bytes  typings/index.d.ts</tspan>
+<tspan x="10" y="2394">148.  2017-04-20 16:22:22 +0000    15260 bytes  typings/modules/sinon/index.d.ts</tspan>
+<tspan x="10" y="2410">149.  2017-04-20 16:22:22 +0000      275 bytes  typings/modules/sinon/typings.json</tspan>
 </text>
 </svg>
